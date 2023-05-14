@@ -1,7 +1,11 @@
+import logo from "../assets";
+
 const Home = () => {
   return (
     <div>
-      <h1>Ceci est le Header de la page</h1>
+      <h1>
+        <img src="" alt="" />
+      </h1>
     </div>
   );
 };
